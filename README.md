@@ -1,80 +1,39 @@
-# 👋 Hi, I'm Abdelrahman Mohammed  
+<h1 align="left">Hey 👋 I'm Abdelrahman Mohammed</h1>
 
-🚀 **Data Scientist & AI Engineer** | Passionate about building and deploying machine learning & AI solutions for real-world problems.  
-📍 Cairo, Egypt | ✉️ abdoelmon8333@gmail.com  
+###
 
----
+<p align="left">Data Scientist & AI Engineer | Passionate about building and deploying machine learning & AI solutions for real-world problems.<br>Cairo, Egypt |  abdoelmon8333@gmail.com</p>
 
-## 🧠 About Me  
-- 🎓 Bachelor’s in Computer Science & Engineering, Menoufia University (2022 – 2025)  
-- 🤖 Experienced in **Machine Learning, Deep Learning, and NLP**  
-- 🏥 Special interest in **Healthcare AI** (medical image & text analysis)  
-- 🌐 Skilled in **MLOps & model deployment** (Streamlit, FastAPI, MLflow)  
-- 💡 Turning data into actionable insights to solve business & social challenges  
+###
 
----
+<h2 align="left">About me</h2>
 
-## 🔧 Tech Stack  
+###
 
-**Languages & Tools**  
-`Python` · `SQL (MySQL)` · `C++` · `C#` · `Git/GitHub` · `Jupyter`  
+<p align="left">🎓 Bachelor’s in Computer Science & Engineering, Menoufia University (2022 – 2025)<br>🤖 Experienced in Machine Learning, Deep Learning, and NLP<br>🏥 Special interest in Healthcare AI (medical image & text analysis)<br>🌐 Skilled in MLOps & model deployment (Streamlit, FastAPI, MLflow)<br>💡 Turning data into actionable insights to solve business & social challenges</p>
 
-**ML & AI**  
-`Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch` · `XGBoost` · `LightGBM`  
+###
 
-**Deep Learning**  
-`CNN` · `RNN` · `Transfer Learning` · `Image Classification` · `LLMs (BERT, GPT)`  
+<h2 align="left">Languages & Tools<br>Python · SQL (MySQL) · C++ · C# · Git/GitHub · Jupyter<br><br>ML & AI<br>Scikit-learn · TensorFlow · Keras · PyTorch · XGBoost · LightGBM<br><br>Deep Learning<br>CNN · RNN · Transfer Learning · Image Classification · LLMs (BERT, GPT)<br><br>MLOps & Deployment<br>Streamlit · FastAPI · MLflow · Pinecone<br><br>Data Analysis & Viz<br>Pandas · NumPy · Matplotlib · Seaborn · Plotly</h2>
 
-**MLOps & Deployment**  
-`Streamlit` · `FastAPI` · `MLflow` · `Pinecone`  
+###
 
-**Data Analysis & Viz**  
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly`  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
 
----
-
-## 📂 Featured Projects  
-
-- 🏥 **[Doctor AI – Medical Diagnosis System](#)**  
-  AI-powered system for early detection of chronic diseases and tumors, integrated into a mobile app.  
-
-- ❤️ **[Heart Attack Prediction](#)**  
-  Predictive analytics model achieving **83% accuracy** with Random Forest; deployed using Streamlit.  
-
-- 🚗 **[Car Price Prediction](#)**  
-  Regression models for predicting used car prices (best R² = 0.79).  
-
-- 🧬 **[Breast Cancer Classification](#)**  
-  Neural network model for tumor classification using Keras & TensorFlow.  
-
-- 😷 **[Face Mask Detection](#)**  
-  Real-time CNN-based detection system trained on 19K+ images.  
-
-*(Check my repositories for more 🚀)*  
-
----
-
-## 📊 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdoelmon&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoelmon&layout=compact&theme=tokyonight)  
-
----
-
-## 📜 Certifications  
-
-- IBM Data Science Internship (DEPI) – 2024  
-- AI & Machine Learning Foundations (Sprints) – 2025  
-- Data Analyst in Python (DataCamp) – 2025  
-- n8n AI Automation: Agents & Voice – 2025  
-
----
-
-## 📫 Connect With Me  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-elmon/)  
-- 🐙 [GitHub](https://github.com/Abdoelmon)  
-- ✉️ Email: **abdoelmon8333@gmail.com**  
-
----
-⭐️ From [Abdoelmon](https://github.com/Abdoelmon)
+###
